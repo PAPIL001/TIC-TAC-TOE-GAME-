@@ -29,6 +29,10 @@ JavaScript (ES6)
 Open the index.html file in your web browser.
 
 Start playing!
-
 No additional setup or installation required.
+
+![Screenshot 2025-04-28 204703](https://github.com/user-attachments/assets/473bf1c5-6c98-4fb5-8a94-4041fdef9ac5)
+![Screenshot 2025-04-28 204641](https://github.com/user-attachments/assets/54bd3e68-ebdc-4475-b591-6855898477e9)
+
+https://github.com/user-attachments/assets/9088e73c-003f-439c-a830-47736ceb8d54
 
